@@ -23,32 +23,32 @@ Future projects relating to mathematics, art and game development.
 #### Knowledge in:  
 
   
-![Github](https://img.shields.io/badge/Github-e1c984?&logo=Github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-e1c984?&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-e1c984?&logo=notion&logoColor=white)
+![Github](https://img.shields.io/badge/Github-e1c984?&logo=Github&logoColor=812454)
+![Markdown](https://img.shields.io/badge/Markdown-e1c984?&logo=markdown&logoColor=812454)
+![Notion](https://img.shields.io/badge/Notion-e1c984?&logo=notion&logoColor=812454)
 
-![C](https://img.shields.io/badge/C-e1c984?&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-e1c984?&logo=gnu-bash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-e1c984?&logo=monzo&logoColor=white)
+![C](https://img.shields.io/badge/C-e1c984?&logo=c&logoColor=812454)
+![Shell Script](https://img.shields.io/badge/Shell_Script-e1c984?&logo=gnu-bash&logoColor=812454)
+![Makefile](https://img.shields.io/badge/Makefile-e1c984?&logo=monzo&logoColor=812454)
 
-![Vim](https://img.shields.io/badge/-Vim-e1c984?&logo=VIM&logoColor=black)
-![Nvim](https://img.shields.io/badge/-Nvim-e1c984?&logo=Neovim&logoColor=white")
+![Vim](https://img.shields.io/badge/-Vim-e1c984?&logo=VIM&logoColor=812454)
+![Nvim](https://img.shields.io/badge/-Nvim-e1c984?&logo=Neovim&logoColor=812454)
 
-![Photoshop](https://img.shields.io/badge/Photoshop-e1c984?&logo=adobephotoshop&logoColor=dark-blue)
+![Photoshop](https://img.shields.io/badge/Photoshop-e1c984?&logo=adobephotoshop&logoColor=812454)
 
-![Debian](https://img.shields.io/badge/Debian-e1c984?logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-e1c984?&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/manjaro-e1c984?logo=manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-e1c984?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-e1c984?logo=debian&logoColor=812454)
+![Linux](https://img.shields.io/badge/Linux-e1c984?&logo=linux&logoColor=812454)
+![Manjaro](https://img.shields.io/badge/manjaro-e1c984?logo=manjaro&logoColor=812454)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e1c984?logo=ubuntu&logoColor=812454)
 
 </div>
 
 <div align="center">
   
 #### Find me on:  
-[![Notion](https://img.shields.io/badge/42_Projects-black?logo=notion)](https://www.notion.so/metapolarium/b620c7e085574db39b4430779c72c063?v=b041e2697ead4c79b4aba3bc68f90da9)
-[![Linkedin](https://img.shields.io/badge/Fauna_Polaris-black?logo=linkedin&)](https://www.linkedin.com/in/fauna-polaris-pinheiro-5238b1278/)
-[![42SP](https://img.shields.io/badge/fpolaris-black?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/fpolaris)
-[![itch](https://img.shields.io/badge/Itch.io-black?logo=itchdotio&logoColor=white)](https://metapolarium.itch.io/)
+[![Notion](https://img.shields.io/badge/42_Projects-black?logo=notion&logoColor=812454)](https://www.notion.so/metapolarium/b620c7e085574db39b4430779c72c063?v=b041e2697ead4c79b4aba3bc68f90da9)
+[![Linkedin](https://img.shields.io/badge/Fauna_Polaris-black?logo=linkedin&logoColor=812454)](https://www.linkedin.com/in/fauna-polaris-pinheiro-5238b1278/)
+[![42SP](https://img.shields.io/badge/fpolaris-black?&logo=42&logoColor=812454)](https://profile.intra.42.fr/users/fpolaris)
+[![itch](https://img.shields.io/badge/Itch.io-black?logo=itchdotio&logoColor=812454)](https://metapolarium.itch.io/)
  
  </div>

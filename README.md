@@ -1,7 +1,7 @@
 
  
 
-### Initizliaing . . . Fauna Polaris
+### Initializing . . . Fauna Polaris
 
 Hello, my name is Fauna, i'm a digital artist with a passion for game development. Recently embarking in the adventure of learning how to code.  
 Non binary and very engaged in politics and social studies, i believe that multidisciplinarity and diversity in every scope of life is essential for progress and innovation. 

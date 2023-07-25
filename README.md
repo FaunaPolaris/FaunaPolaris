@@ -9,12 +9,14 @@ Non binary and very engaged in politics and social studies, i believe that multi
 #### Here's what you can find on my profile: 
 
 All my projects at 42.  
-- currently at: `ft_printf`;  
+- currently at: `born2be`;
+- libft(100%);  
 - get_next_line (100%);  
 - libft (125%);  
-
-
-Future projects relating to mathematics, art and game development.  
+  
+A set of life simulator's.  
+- Conway's Game of Life;  
+- fp_random_genetics;  
 
 <div align="center">
 

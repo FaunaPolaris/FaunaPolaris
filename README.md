@@ -15,7 +15,7 @@ All my projects at 42.
 - get_next_line (100%);  
 - libft (125%);  
   
-A set of life simulator's.  
+A set of life simulators.  
 - Conway's Game of Life;  
 - fp_random_genetics;  
 

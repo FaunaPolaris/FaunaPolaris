@@ -9,7 +9,7 @@ Non binary and very engaged in politics and social studies, i believe that multi
 #### Here's what you can find on my profile: 
 
 All my projects at 42.  
-- currently at: `Pipex`;
+- currently at: `minitalk`;
 - fdf(100%);  
 - born2beroot(110%);
 - libft(100%);  

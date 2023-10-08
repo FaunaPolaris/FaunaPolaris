@@ -9,9 +9,10 @@ Non binary and very engaged in politics and social studies, i believe that multi
 #### Here's what you can find on my profile: 
 
 All my projects at 42.  
-- currently at: `minitalk`;
+- currently at: `push_swap`;
+- minitalk(115%);  
 - fdf(100%);  
-- born2beroot(110%);
+- born2beroot(110%);  
 - libft(100%);  
 - get_next_line (100%);  
 - libft (125%);  

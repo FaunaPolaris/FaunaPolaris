@@ -36,6 +36,7 @@ A set of life simulators.
 ![C](https://img.shields.io/badge/C-e1c984?&logo=c&logoColor=812454)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-e1c984?&logo=gnu-bash&logoColor=812454)
 ![Makefile](https://img.shields.io/badge/Makefile-e1c984?&logo=monzo&logoColor=812454)
+![GDscript](https://img.shields.io/badge/GDscript-e1c984?&logo=Godot&logoColor=812454)
 
 ![Vim](https://img.shields.io/badge/-Vim-e1c984?&logo=VIM&logoColor=812454)
 ![Nvim](https://img.shields.io/badge/-Nvim-e1c984?&logo=Neovim&logoColor=812454)
@@ -52,7 +53,6 @@ A set of life simulators.
 <div align="center">
   
 #### Find me on:  
-[![Notion](https://img.shields.io/badge/42_Projects-black?logo=notion&logoColor=812454)](https://www.notion.so/metapolarium/b620c7e085574db39b4430779c72c063?v=b041e2697ead4c79b4aba3bc68f90da9)
 [![Linkedin](https://img.shields.io/badge/Fauna_Polaris-black?logo=linkedin&logoColor=812454)](https://www.linkedin.com/in/fauna-polaris-pinheiro-5238b1278/)
 [![42SP](https://img.shields.io/badge/fpolaris-black?&logo=42&logoColor=812454)](https://profile.intra.42.fr/users/fpolaris)
 [![itch](https://img.shields.io/badge/Itch.io-black?logo=itchdotio&logoColor=812454)](https://metapolarium.itch.io/)

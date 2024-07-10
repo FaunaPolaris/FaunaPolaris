@@ -27,14 +27,14 @@ Here's what you can find on my github:
       </ul>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Cellular automata</h3>
+      <h3 align="center">Cellular automata</h3>
       <ul>
         <li>Conway's game of life;</li>
         <li>fp_random_genetics.</li>
       </ul>
     </td>
    <td style="vertical-align: top; padding-left: 20px;">
-    <h3>Games</h3>
+    <h3 align="center">Games</h3>
      <ul>
        <li>Gotejo meets the sun;</li>
        <li>Tucano toco.</li>

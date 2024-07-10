@@ -3,8 +3,8 @@
 
 ### Initializing . . . Fauna Polaris
 
- <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/0ae2fb3b-fb30-4e42-bf8c-86f71b92e4a0" min-width="120px" max-width="120px" width="120px" align="left">  
-   <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/0ae2fb3b-fb30-4e42-bf8c-86f71b92e4a0" min-width="120px" max-width="120px" width="120px" align="right">  
+ <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/9373d68a-8eb0-4099-af32-bc158859d691" min-width="120px" max-width="120px" width="120px" align="left">  
+ <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/a3ccf8bc-e35a-48f6-af02-e65e17efff30" min-width="120px" max-width="120px" width="120px" align="right">  
 Hello, my name is Fauna, i'm a digital artist with a passion for game development. Recently embarking in the adventure of learning how to code.  
 Non binary and very engaged in politics and social studies, i believe that multidisciplinarity and diversity in every scope of life is essential for progress and innovation. 
 

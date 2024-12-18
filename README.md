@@ -5,47 +5,7 @@
 
  <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/9373d68a-8eb0-4099-af32-bc158859d691" min-width="120px" max-width="120px" width="120px" align="left">  
  <img src="https://github.com/FaunaPolaris/FaunaPolaris/assets/62262523/a3ccf8bc-e35a-48f6-af02-e65e17efff30" min-width="120px" max-width="120px" width="120px" align="right">  
-Hello, my name is Fauna, i'm a digital artist with a passion for game development. Recently embarking in the adventure of learning how to code.  
-Non binary and very engaged in politics and social studies, i believe that multidisciplinarity and diversity in every scope of life is essential for progress and innovation. 
-
-### Loading . . . Repositories
-
-Here's what you can find on my github:
-
-</div>
-<table align="center">
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h3 align="center">42 Projects</h3>
-      <ul>
-        <li>philosophers (current);</li>
-        <li>minishell (100%);</li>
-        <li>pushswap (90%);</li>
-       <li>minitalk (115%);</li>
-       <li>fdf (100%);</li>
-       <li>borntoberoot (110%);</li>
-       <li>get_next_line (100%);</li>
-       <li>libft (125%).</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3 align="center">Cellular automata</h3>
-      <ul>
-        <li>Conway's game of life;</li>
-        <li>fp_random_genetics.</li>
-      </ul>
-    </td>
-   <td style="vertical-align: top; padding-left: 20px;">
-    <h3 align="center">Games</h3>
-     <ul>
-       <li>Gotejo meets the sun;</li>
-       <li>Tucano toco.</li>
-     </ul>
-   </td>
-  </tr>
-</table>
-
-<div align="center">
+Hello! I'm Fauna, a software developer with a passion for game development and backend programming. I thrive in solving complex problems through elegant code and creating engaging interactive experiences. My journey started with digital art, giving me a unique perspective on design and development.  
 
 ### Loading . . . Skills
 
